@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\01-cards-sources"
+		},
+		{
+			"path": "..\\02-drag-drop"
+		},
+		{
+			"path": "..\\03-slider"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "04-board"
+	}
+}
